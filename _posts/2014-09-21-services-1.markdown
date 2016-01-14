@@ -1,8 +1,8 @@
 ---
 layout: default
 img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+category: Features
+title: 明日から実践できる情報が手に入る！
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  ハックとは自分で考え、試行錯誤しながら、改善すること。**参加者自身が明日から健康増進するための実践的な情報・行動のヒントを提供します**。

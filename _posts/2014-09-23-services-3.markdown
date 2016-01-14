@@ -1,8 +1,8 @@
 ---
 layout: default
 img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+category: Features
+title: 頭と身体で体験
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+たとえ知識を得ても、それを実際に実践し体験しなければ本当の意味での変化には繋がりません。本カンファレンスでは、知識を得ること以上に、**実際に体験をして・やってみた結果を持ち帰ってもらいます**。
