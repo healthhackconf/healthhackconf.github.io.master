@@ -6,8 +6,8 @@ url: http://healthackconf.github.io
 title: ヘルスハックカンファレンス
 email: contact+hhc@zensow.jp
 author: ヘルスハックカンファレンス実行委員
-description: > ヘルスハックカンファレンス Health Hack Conference 
-copyright: 'Copyright &copy; 2016 ヘルスハックカンファレンス実行委員会. All Rights Reserved.'
+description: > #プログラマーだけでなく、現代人は様々な技術革新・社会システムによる利便性の獲得と相反するように、運動不足やジャンクフードに囲まれ、生活習慣病に怯える人が増えています。よい仕事をするため、いきいきとした人生を送るためには、**自ら健康の重要性に目を向け、日常的に実践しなければならない時代なのです。**本カンファレンスは、自分の力で心身ともに健康な人生を送るために健康をハック(工夫し改善する)する**ヘルスハッカー**に変わるためのカンファレンスです。
+copyright: 'Copyright &copy; 2016 ヘルシーハックカンファレンス実行委員会. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -23,6 +23,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-#  - title: コミュニティに参加
-#    icon: home
-#    url: https://goo.gl/tGI3CZ
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/healthhackconf
