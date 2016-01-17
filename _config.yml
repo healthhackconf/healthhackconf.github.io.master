@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://healthackconf.github.io
-title: Health Hack Conference @ MYJ
+title: ヘルスハックカンファレンス
 email: kakeda@zensow.jp
 author: ヘルスハックカンファレンス実行委員
 description: > # "Write an awesome description for your new site here. 
@@ -26,5 +26,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: イベント情報を入手
-    url: http://www.kokuchpro.com/group/hhc/
+#  - title: コミュニティに参加
+#    icon: home
+#    url: https://goo.gl/tGI3CZ

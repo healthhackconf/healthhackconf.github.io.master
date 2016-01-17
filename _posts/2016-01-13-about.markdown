@@ -2,23 +2,23 @@
 layout: default
 img: phones.png
 category: About
-title: ヘルスハックカンファレンスとは
+title: ヘルスハックカンファレンスとは？
 description: |
 ---
-今、健康が最も熱い！！
+**今、健康が最も熱い！！**
 
-「プログラマーとは、ピザとコーラ、ラーメンとレッドブルを手元に、日夜でパソコンに向かう」
+「プログラマーはピザ・スナック、炭酸飲料・エナジードリンクを手元に日夜パソコンに向かう」
 
 そのようなイメージを払拭する本が昨年夏に出版されました。
 
 その名も**ヘルシープログラマ**。
 
-東京で開催された[出版記念イベント](http://connpass.com/event/18312/)には応募者が殺到し、定員を大幅に越える150人以上の参加者がありました。
+東京で開催された[出版記念イベント](http://connpass.com/event/18312/)には応募者が殺到し、定員を大幅に越える**150人以上**の参加者がありました。
 
 <a rel="nofollow" href="http://www.amazon.co.jp/gp/product/4873117283/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4873117283&linkCode=as2&tag=giantech-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4873117283&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=giantech-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=giantech-22&l=as2&o=9&a=4873117283" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-プログラマーだけでなく、現代人は様々な技術革新・社会システムによる利便性の向上と相反するように、運動不足・ジャンクフードに囲まれ、生活習慣病に怯えながら人生を送る人が増えています。
+プログラマーだけでなく、現代人は様々な技術革新・社会システムによる利便性の獲得と相反するように、運動不足やジャンクフードに囲まれ、生活習慣病に怯える人が増えています。
 
-仕事・趣味を含めたいきいきとした人生を送るためには、**自らが健康に目を向け、日々改善しなければなりません。**
+よい仕事をするため、いきいきとした人生を送るためには、**自ら健康の重要性に目を向け、日常的に実践しなければならない時代なのです。**
 
 本カンファレンスは、自分の力で心身ともに健康な人生を送るために健康をハック(工夫し改善する)する**ヘルスハッカー**に変わるためのカンファレンスです。
