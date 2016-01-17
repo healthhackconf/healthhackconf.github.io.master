@@ -4,13 +4,10 @@
 
 url: http://healthackconf.github.io
 title: ヘルスハックカンファレンス
-email: kakeda@zensow.jp
+email: contact+hhc@zensow.jp
 author: ヘルスハックカンファレンス実行委員
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Healthy Hack Conference. All Rights Reserved.'
+description: > ヘルスハックカンファレンス Health Hack Conference 
+copyright: 'Copyright &copy; 2016 ヘルスハックカンファレンス実行委員会. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
