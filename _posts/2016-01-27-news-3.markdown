@@ -1,0 +1,16 @@
+---
+layout: default
+img: carrot.jpg
+category: News
+title: 登壇者の発表（２）
+description: |
+---
+2016/01/27
+
+[リモートワークでうまく行く](http://www.amazon.co.jp/gp/product/4534053428/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4534053428&linkCode=as2&tag=giantech-22)で、今話題のソニックガーデン代表取締役 倉貫義人さんが、ヘルスハックカンファレンスに登壇していただけることになりました。
+
+倉貫さまには、正しい決断をするために、経営者としてどう健康を管理しているかをお話いただきます。
+
+倉貫さんのヘルスハックのお話は**本邦初公開です！！**
+
+
