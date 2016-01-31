@@ -1,0 +1,11 @@
+<section id="entry" class="container content-section text-center">
+{% for post in site.categories.Entry reversed %}
+    <div class="row">
+        <hr class="section-heading-spacer">
+
+        <div class="clearfix"></div>
+        <h2 class="section-heading">{{ post.title }}</h2>
+        <div class="lead">{{ post.content }}</div>
+    </div>
+{% endfor %}
+</section>

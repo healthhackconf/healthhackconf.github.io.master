@@ -1,0 +1,12 @@
+---
+layout: entry
+img: folks.png
+category: Entry
+title: 申し込み
+description: |
+---
+
+
+カンファレンスの詳細＆お申し込みは<a href='https://healthhackconf.doorkeeper.jp/events/37747'>『健康をハックする』ヘルスハックカンファレンス</a>よりお申し込みください。
+
+<a class="doorkeeper-registration-widget" href="https://healthhackconf.doorkeeper.jp/events/37747">『健康をハックする』ヘルスハックカンファレンス</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>

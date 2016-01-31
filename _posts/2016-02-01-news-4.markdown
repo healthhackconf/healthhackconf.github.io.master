@@ -1,0 +1,15 @@
+---
+layout: default
+img: belly.jpg
+category: News
+title: 申し込みを開始しました
+description: |
+---
+2016/02/01
+
+コンテンツの発表、全登壇者のプロフィールを公開しました。
+
+[参加申し込み](#entry)を開始しました。
+
+内容概要は[こちら](#contents)を参照ください。
+
