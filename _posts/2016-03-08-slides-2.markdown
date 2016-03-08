@@ -1,0 +1,8 @@
+---
+layout: contents
+img: 20160305/kakeda.jpg
+category: Slides
+title: ヘルスハックカンファレンスオープニング(懸田)
+description: |
+---
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fPrRZd9wSRHVzR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kkd/ss-59259836" title="ヘルスハックカンファレンス オープニング" target="_blank">ヘルスハックカンファレンス オープニング</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/kkd">Takeshi Kakeda</a></strong> </div>

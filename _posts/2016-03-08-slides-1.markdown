@@ -1,0 +1,8 @@
+---
+layout: contents
+img: gogo_island_1.jpg
+category: Slides
+title: 参加者に配られたしおり
+description: |
+---
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3V3z0Jwg6bhHRj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kkd/ss-59259255" title="ようこそヘルスハックカンファレンスへ" target="_blank">ようこそヘルスハックカンファレンスへ</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/kkd">Takeshi Kakeda</a></strong> </div>
