@@ -1,0 +1,24 @@
+---
+layout: default
+img: hhconf20160305.jpg
+category: News
+title: 無事開催終了しました！
+description: |
+---
+
+2016/03/05-06
+
+初日は15名（講演者4名、参加者12名）、2日目は5名で無事開催できました。
+
+はじめての試みにも関わらず、県内・県外から多くの方に参加頂きありがとうございました。
+
+講演者、参加者、そして準備段階から関わって頂いた多くの方々に厚く御礼申し上げます。
+
+当日の様子や写真について、徐々にFacebookページや、Instagramに投稿して行きます。
+
+* [Facebookページ](http://www.facebook.com/healthhackconf)
+* [ヘルスハックカンファレンス Instagram](http://instagram.com/healthhackconf)
+
+
+
+
