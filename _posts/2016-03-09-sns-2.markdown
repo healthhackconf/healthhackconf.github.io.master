@@ -5,5 +5,4 @@ title: Instagram
 description: |
 ---
 <!-- SnapWidget -->
-<script src="http://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="http://snapwidget.com/in/?h=aGhjb25mfGlufDEyNXwzfDN8fG5vfDV8ZmFkZUlufG9uU3RhcnR8eWVzfHllcw==&ve=090316" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
+<iframe src="http://snapwidget.com/sc/?h=aGhjb25mfGlufDMwMHwzfDN8fG5vfDV8bm9uZXxvblN0YXJ0fHllc3xubw==&ve=090316" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:400px; height:400px"></iframe>
